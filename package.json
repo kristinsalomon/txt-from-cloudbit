@@ -1,0 +1,11 @@
+{
+  "name": "txt-from-twilio",
+  "version": "0.0.1",
+  "description": "sends message from twilio account to google voice # if cloudbit input goes above threshold",
+  "author": "kristin salomon",
+  "main": "app.js",
+  "dependencies": {
+    "twilio": "^1.9.0",
+	"prompt": "0.2.14"
+  }
+}
